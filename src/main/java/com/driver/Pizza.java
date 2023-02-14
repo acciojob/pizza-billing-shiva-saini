@@ -70,7 +70,7 @@ public class Pizza {
             isBillCreated = true;
             return this.bill;
         }
-        return "Bill is already created";
+        return "";
 
     }
 }
